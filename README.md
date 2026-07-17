@@ -12,7 +12,4 @@ I'm passionate about building data-driven solutions through Data Analytics, Data
 ![](https://streak-stats.demolab.com/?user=sohamnp06&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohamnp06&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=sohamnp06&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
