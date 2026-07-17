@@ -20,7 +20,8 @@ I'm passionate about building data-driven solutions through Data Analytics, Data
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sohamnp06&theme=dark&hide_border=true" alt="streak stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=sohamnp06&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=sohamnp06&theme=dark&hide_border=true" />
 </p>
 
 ---
