@@ -26,5 +26,11 @@ I'm passionate about building data-driven solutions through Data Analytics, Data
   </tr>
 </table>
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sohamnp06/sohamnp06/snake-output/snake.svg" alt="Snake animation" />
+</p>
+
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/sohamnp06">sohamnp06</a></i></p>
