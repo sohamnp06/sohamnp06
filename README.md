@@ -27,12 +27,5 @@ I'm passionate about building data-driven solutions through Data Analytics, Data
 </table>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/sohamnp06">sohamnp06</a></i></p>
 
-<p data-importer="text" align="center">Hello World!!</p>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/sohamnp06/sohamnp06/snake-output/snake.svg" alt="Snake animation" />
-
-###
